@@ -52,11 +52,11 @@ img {
   display: flex;
   gap: 25px;
   flex-wrap: wrap;
-  color: #FF5722
+  color: #1E4732
 }
 
 .nav-link {
-  color: #FF5722;
+  color: #1E4732;
   font-weight: bold;
   text-decoration: none;
   font-size: 1.05rem;
@@ -84,7 +84,7 @@ img {
 }
 
 .highlight-title {
-  color: #FF5722;
+  color: #1E4732;
   font-size: 2.5rem;
   font-weight: 700;
   margin-bottom: 20px;
@@ -168,7 +168,7 @@ game-card img {
 }
 
 .contact a {
-  color: #FF5722;
+  color: #1E4732;
   text-decoration: none;
   font-weight: bold;
 }
@@ -213,7 +213,7 @@ game-card img {
 .btn-google-play {
   display: inline-flex;
   align-items: center;
-  background-color: #FF5722;
+  background-color: #1E4732;
   color: white;
   padding: 8px 12px;
   border-radius: 6px;
@@ -230,7 +230,7 @@ game-card img {
 .google-play-icon {
   height: 20px;
   width: auto;
-  color: #FF5722
+  color: #1E4732
 }
 
 
@@ -244,7 +244,7 @@ game-card img {
 .studio-name {
   font-size: 25px;
   font-weight: bold;
-  color: #FF5722;
+  color: #1E4732;
 }
 
 
