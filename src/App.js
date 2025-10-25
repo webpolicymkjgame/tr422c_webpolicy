@@ -21,8 +21,8 @@ function Header() {
           <div className="container header-container">
             <div className="header-left">
               <div className="logo-wrapper">
-                <img src={logoImg} alt="Semler scie" className="logo-img" />
-                <span className="studio-name">Semler scie</span>
+                <img src={logoImg} alt="Triple888Dev Studio" className="logo-img" />
+                <span className="studio-name">Triple888Dev Studio</span>
               </div>
             </div>
 
@@ -52,8 +52,8 @@ function HomePage() {
       <section id="about" className="section about">
         <div className="container about-row">
           <div className="about-text-container">
-            <h2 className="highlight-title">Semler scie – Welcome Aboard</h2>
-            <p className="about-text">Semler scie is an innovative mobile app studio dedicated to building reliable, creative, and user-friendly applications. We strive to combine design and functionality, delivering solutions that cover casual games, productivity tools, lifestyle, and education. Every app we create is thoughtfully crafted with the user experience at the core — featuring intuitive navigation, refined details, and practical value — to make daily life more convenient, smarter, and more enjoyable for people worldwide.
+            <h2 className="highlight-title">Triple888Dev Studio – Welcome Aboard</h2>
+            <p className="about-text">Triple888Dev Studio is an innovative mobile app studio dedicated to building reliable, creative, and user-friendly applications. We strive to combine design and functionality, delivering solutions that cover casual games, productivity tools, lifestyle, and education. Every app we create is thoughtfully crafted with the user experience at the core — featuring intuitive navigation, refined details, and practical value — to make daily life more convenient, smarter, and more enjoyable for people worldwide.
             </p>
           </div>
           <div className="about-img-container">
@@ -113,7 +113,7 @@ function App() {
         </Routes>
         <footer className="footer">
           <div className="container text-center">
-            <p>&copy; {new Date().getFullYear()} Semler scie. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Triple888Dev Studio. All rights reserved.</p>
           </div>
         </footer>
       </div>
